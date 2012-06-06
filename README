@@ -1,0 +1,46 @@
+  High King
++-----------+
+
+The invading hordes have reached the throne room! Crush the tyrannical monarch
+or escort your king to safety in this variant of the ancient Norse game
+Hnefatafl. Game Gardens Challenge 2006 Entry.
+
+
+Notes
+-----
+I have made every attempt to keep the code clean, readable, and maintainable.
+That said, this entire game was written from the ground up in the span of
+three weeks so you will undoubtedly encounter "huh?" moments where I've
+been forced to compromise design for the sake of expediency.
+
+The code is liberally commented so I could keep everything straight in the game
+while I learned the Narya and Nenya libraries. Hopefully it will make it far
+easier to read and understand; all the better for the contest, I can only hope.
+
+The game was originally called Hnefatafl thus all the file names, class names,
+documentation, etc. refer to this name. Upon changing the name to High King (to
+give my game a unique identity separate from its inspiration) I elected to keep
+the original name internally.
+
+I have omitted the view and game logic test code from this distribution simply
+because it is a mess; to gaze upon it would be painful at best.
+
+
+Credits
+-------
+Code: Eric Woroshow
+Artwork: Eric Woroshow, with resources adapted from Three Rings Design Inc.
+Design: Hnefatafl (lit. King's Table) is a board game that was popular in
+        Viking Age Scandinavia up until its replacement by chess in the
+        eleventh and twelfth centuries. This game, however, models and adapts a
+        little-known Scottish variant called Ard-Ri. In its standard form, the
+        game is inherently unbalanced; this implementation tweaks the rules in
+        an attempt to provide an even playing field. These modifications are my
+        unique contribution to the game design - I hope you like them!
+
+
+Thanks
+------
+To everyone in the Game Gardens community who has helped make it easy for me to
+create a fun game, and to all my friends I conned in to playing with me.
+
